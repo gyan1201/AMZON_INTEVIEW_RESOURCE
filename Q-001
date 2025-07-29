@@ -1,0 +1,31 @@
+## why you choose to switch from mechanical to computer science ?
+
+
+That's an excellent question, and it speaks to a significant and deliberate evolution in my career path, one that I believe aligns precisely with Amazon's core values, particularly the **Leadership Principles** of **Invent and Simplify**, **Learn and Be Curious**, **Think Big**, **Bias for Action**, and **Deliver Results**.
+
+My foundational background in Mechanical Engineering, specifically my experience as a Manufacturing Trainee at Lohia Corp Limited, provided me with invaluable skills. I was responsible for **supervising loom machine testing** in the Assembly Department to ensure adherence to company quality standards and **overseeing rectification processes** to achieve 100% functionality and reliability in delivered units. This instilled in me a strong **problem-solving mindset**, an acute **attention to detail**, and a deep appreciation for **operational efficiency** and **delivering tangible results**.
+
+However, it was two specific experiences in that role that truly catalyzed my pivot towards Computer Science and AI/ML.
+
+Firstly, I witnessed a remarkable transformation in an assembly station. Originally, it required **five individuals** performing a mix of manual and semi-automatic tasks. A specialized team, after meticulous measurement and videography of the manual jobs, returned weeks later with a **semi-automatic machine** [Conversation history]. This innovation drastically reduced the manual workload, requiring **only two members** to operate it [Conversation history]. This instantly resonated with Amazon's **Invent and Simplify** principle, which emphasizes that "Leaders expect and require innovation and invention from their teams and always find ways to simplify". Seeing this direct impact – transforming a five-person manual process into a two-person semi-automatic operation – was a profound revelation about the power of automation to drive efficiency and **Deliver Results**.
+
+Secondly, and perhaps even more personally impactful, was an instance where I had **designed a tool myself** to reduce the time of a cumbersome manual assembly process [Conversation history]. This was my own early attempt to "Invent and Simplify." Subsequently, that same team introduced an **automatic tool**, operated by a single assembly person, which reduced what was once "the most time-taking process" to "a few minutes" [Conversation history]. This demonstrated a level of **innovation and simplification** that was truly astounding and solidified my conviction that technology, particularly AI and automation, was going to fundamentally change the future [Conversation history].
+
+These experiences weren't just surprising; they were deeply motivating. I realized that while mechanical engineering allowed me to optimize physical systems, software, and especially AI/ML, offered the ability to **"Think Big"** and solve complex problems at an unprecedented scale, impacting millions of users and driving systemic change across industries. This passion to contribute to such transformative advancements, coupled with my innate **curiosity about new possibilities**, directly led to my decision to take a career break and proactively **"Learn and Be Curious"** about this new field [User's experience, 140, 362, 575].
+
+I immediately applied a **"Bias for Action"** by pursuing a B.Tech in Computer Science Engineering with a specialization in AI-ML [Conversation history, 643]. During this period, I didn't just passively learn; I actively sought to **"Dive Deep"** into the core technical competencies critical for an SDE role. This included:
+*   **Object-Oriented Design** and its best practices for extensible and maintainable code.
+*   Mastering **Algorithm Design, Data Structures, and Complexity Analysis**, understanding their nuances and trade-offs for efficient data manipulation.
+*   Proficiency in **programming languages like Python and Java**, including memory management and common libraries.
+*   Working with **databases** (MongoDB, PostgreSQL) and understanding their design.
+*   Gaining experience with **distributed computing** concepts like ReactJS and Node.js, and version control with Git and GitHub.
+
+My "Quantify Motion" project exemplifies how I applied this newfound knowledge. I **developed Python scripts** to preprocess, visualize, and model accelerometer and gyroscope sensor data for exercise classification and repetition counting [Conversation history, 635, 636, 638, 639]. This involved:
+*   **Deep diving** into raw sensor data processing, including cleaning and splitting CSV files using libraries like Pandas [Conversation history].
+*   **Visualizing data** to understand patterns and detect outliers [Conversation history, 638].
+*   **Engineering features** using advanced techniques like Fourier Transformation and Principal Component Analysis [Conversation history].
+*   **Developing and evaluating predictive models** for multi-class classification, performing hyperparameter tuning, and analyzing confusion matrices to identify areas for improvement [Conversation history, 639, 640].
+
+This project directly demonstrates my ability to **Invent and Simplify** solutions for a real-world problem (fitness tracking) by leveraging **AI/ML**, and my commitment to **Deliver Results** through rigorous technical application. My mechanical background provides a unique perspective on real-world systems and a practical approach to problem-solving, which I now combine with my expertise in building **scalable, robust, and well-tested software solutions** that align with Amazon's commitment to continuous innovation and customer obsession.
+
+In summary, my transition was a proactive, well-thought-out decision driven by a profound recognition of technology's potential and a desire to contribute at the forefront of innovation. I am now equipped with a unique blend of analytical rigor from mechanical engineering and the cutting-edge technical skills of a Software Development Engineer, eager to solve complex problems and build on behalf of Amazon's customers.
